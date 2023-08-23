@@ -1,0 +1,50 @@
+/* welcome.component.css */
+.welcome-container {
+    text-align: center;
+    width: 1000px;
+    height: 500px;
+    margin: 0 auto;
+    padding: 40px;
+    background-image: url('https://img.freepik.com/premium-vector/financial-banking-technology-concept_387612-31.jpg');
+    background-size:cover;
+    
+  }
+  
+  h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+    color:#fff
+  }
+  
+  p {
+    font-size: 18px;
+    margin-bottom: 30px;
+  }
+  
+  .btn {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    text-decoration: none;
+    border-radius: 4px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .btn-primary {
+    background-color: #4285F4;
+    color: #fff;
+  }
+  
+  .btn-primary:hover {
+    background-color: #3367D6;
+  }
+  
+  .btn-secondary {
+    background-color: #ccc;
+    color: #fff;
+  }
+  
+  .btn-secondary:hover {
+    background-color: #999;
+  }
+  
